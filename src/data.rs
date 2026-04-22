@@ -6,7 +6,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
         Product {
             id: 1,
             name: "Samsung 65\" 4K QLED Smart TV".to_string(),
-            price: 1299.99,
+            price: 999.99,
             description: "Stunning 4K QLED display with Quantum HDR, built-in Alexa, and a 120Hz refresh rate. Perfect for movies, gaming, and sports.".to_string(),
             image: "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=400&h=400&fit=crop".to_string(),
         },
