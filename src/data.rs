@@ -8,7 +8,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
             name: "Samsung 65\" 4K QLED Smart TV".to_string(),
             price: 1299.99,
             description: "Stunning 4K QLED display with Quantum HDR, built-in Alexa, and a 120Hz refresh rate. Perfect for movies, gaming, and sports.".to_string(),
-            image: "https://images.unsplash.com/photo-1593359677879-a4bb92f4834c?w=400&h=400&fit=crop".to_string(),
+            image: "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=400&h=400&fit=crop".to_string(),
         },
         Product {
             id: 2,
@@ -36,7 +36,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
             name: "Apple iPhone 15 Pro".to_string(),
             price: 1199.99,
             description: "Titanium design with the A17 Pro chip, 48MP main camera system with 5x optical zoom, and Action Button for quick customization.".to_string(),
-            image: "https://images.unsplash.com/photo-1696446702183-079d6143f33f?w=400&h=400&fit=crop".to_string(),
+            image: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=400&h=400&fit=crop".to_string(),
         },
         Product {
             id: 6,
